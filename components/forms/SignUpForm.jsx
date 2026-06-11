@@ -240,7 +240,7 @@ export default function SignUpForm(props) {
               <legend className="text-base  text-black/50 py-4">
                 {signUpMode === "0"
                   ? "Fill in the form below."
-                  : "Sign up for the ultimate test now."}
+                  : "Sign up for the ultimate test now!"}
               </legend>
 
               <div>
